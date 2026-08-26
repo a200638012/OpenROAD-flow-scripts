@@ -7,3 +7,6 @@
 [submodule "tools/kepler-formal"]
 	path = tools/kepler-formal
 	url = https://github.com/keplertech/kepler-formal
+[submodule "01_task/AI_Agent_for_EDA"]
+	path = 01_task/AI_Agent_for_EDA
+	url = https://github.com/a200638012/AI_Agent.git
